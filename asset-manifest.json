@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/football-react/static/css/main.a17b19cd.css",
-    "main.js": "/football-react/static/js/main.207a385b.js",
+    "main.js": "/football-react/static/js/main.aaa53212.js",
     "static/js/787.d4aba7ab.chunk.js": "/football-react/static/js/787.d4aba7ab.chunk.js",
     "static/media/englandBack.jpg": "/football-react/static/media/englandBack.6c5a2d3c18e2a5e3fa26.jpg",
     "static/media/koreaBack.jpg": "/football-react/static/media/koreaBack.e120e290df9d3a9fa7a1.jpg",
@@ -9,11 +9,11 @@
     "static/media/grass.jpg": "/football-react/static/media/grass.8c5e645808ac34a19c2d.jpg",
     "index.html": "/football-react/index.html",
     "main.a17b19cd.css.map": "/football-react/static/css/main.a17b19cd.css.map",
-    "main.207a385b.js.map": "/football-react/static/js/main.207a385b.js.map",
+    "main.aaa53212.js.map": "/football-react/static/js/main.aaa53212.js.map",
     "787.d4aba7ab.chunk.js.map": "/football-react/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a17b19cd.css",
-    "static/js/main.207a385b.js"
+    "static/js/main.aaa53212.js"
   ]
 }
