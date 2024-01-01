@@ -1,0 +1,42 @@
+.wrapper__right {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.videoWrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 80%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.iFrame {
+  width: 100%;
+  height: 100%;
+}
+
+.mobileLayoutRight {
+  width: 100%;
+  height: 500px;
+}
+
+.shortsImg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+iframe {
+  position: absolute;
+  z-index: 5;
+}
+
+.hidden {
+  display: none;
+}

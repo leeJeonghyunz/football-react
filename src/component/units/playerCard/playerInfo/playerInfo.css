@@ -1,0 +1,16 @@
+.infoBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: 800;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  z-index: 5;
+  top: 0px;
+  left: 0;
+  opacity: 0;
+  transition: 0.5s;
+}
